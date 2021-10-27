@@ -1,0 +1,5 @@
+samplename,IP_group,group,batch,replicate,phenotype
+YUc4-1_S3_L001,YUc4-1,control,pair1,1,chip
+YUc4-2_S4_L001,YUc4-2,control,pair2,2,chip
+YUc4-3_S5_L001,YUc4-3,senescent,pair3,1,chip
+YUc4-4_S6_L001,YUc4-4,senescent,pair4,2,chip
